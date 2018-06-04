@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TVMazeForZliide</string>
+    <string name="season">season</string>
+    <string name="episode">episode</string>
+    <string name="no_connectivity">No internet</string>
+    <string name="retry">Try again</string>
+</resources>
